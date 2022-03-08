@@ -12,5 +12,11 @@ public class Class1 {
 	public void method3() {
 		System.out.println("Three");
 	}
+	public void method4() {
+		System.out.println("Three");
+	}
+	public void method5() {
+		System.out.println("Three");
+	}
 
 }
