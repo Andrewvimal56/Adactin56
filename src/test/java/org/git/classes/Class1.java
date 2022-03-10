@@ -31,4 +31,13 @@ public class Class1 {
 
 	}
 
+	public void Kapil() {
+		System.out.println("One");
+	}
+
+	public void Kapil1() {
+		System.out.println("two");
+	}
+
+
 }
