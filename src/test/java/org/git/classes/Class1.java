@@ -23,18 +23,29 @@ public class Class1 {
 	}
 
 	public void methodVimal() {
-		System.out.println("Three");
+		System.out.println("vimal");
 	}
 
 	public void methodVimal1() {
-		System.out.println("Three");
+		System.out.println("vimal");
 
 	}
+
 	public void methodEswar1() {
 		System.out.println("Three");
 	}
+
 	public void methodEswar2() {
 		System.out.println("Three");
+	}
+
+	public void methodVima4() {
+		System.out.println("vimal");
+	}
+
+	public void methodVimal3() {
+		System.out.println("vimal");
+
 	}
 
 }
