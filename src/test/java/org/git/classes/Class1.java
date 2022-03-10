@@ -30,5 +30,11 @@ public class Class1 {
 		System.out.println("Three");
 
 	}
+	public void methodEswar1() {
+		System.out.println("Three");
+	}
+	public void methodEswar2() {
+		System.out.println("Three");
+	}
 
 }
