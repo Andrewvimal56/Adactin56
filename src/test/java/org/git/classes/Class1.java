@@ -30,6 +30,15 @@ public class Class1 {
 		System.out.println("vimal");
 
 	}
+
+	public void methodEswar1() {
+		System.out.println("Three");
+	}
+
+	public void methodEswar2() {
+		System.out.println("Three");
+	}
+
 	public void methodVima4() {
 		System.out.println("vimal");
 	}
@@ -38,6 +47,5 @@ public class Class1 {
 		System.out.println("vimal");
 
 	}
-
 
 }
